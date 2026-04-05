@@ -1,0 +1,22 @@
+[
+  {"name": "Алексей Иванов", "age": 28, "email": "alexey.ivanov@mail.com", "city": "Москва"},
+  {"name": "Мария Смирнова", "age": 22, "email": "maria.smirnova@mail.com", "city": "Санкт-Петербург"},
+  {"name": "Дмитрий Кузнецов", "age": 35, "email": "dmitry.kuznetsov@mail.com", "city": "Екатеринбург"},
+  {"name": "Анна Попова", "age": 19, "email": "anna.popova@mail.com", "city": "Казань"},
+  {"name": "Сергей Васильев", "age": 41, "email": "sergey.vasiliev@mail.com", "city": "Новосибирск"},
+  {"name": "Елена Петрова", "age": 27, "email": "elena.petrova@mail.com", "city": "Нижний Новгород"},
+  {"name": "Иван Соколов", "age": 31, "email": "ivan.sokolov@mail.com", "city": "Самара"},
+  {"name": "Ольга Михайлова", "age": 24, "email": "olga.mikhailova@mail.com", "city": "Ростов-на-Дону"},
+  {"name": "Андрей Фёдоров", "age": 38, "email": "andrey.fedorov@mail.com", "city": "Краснодар"},
+  {"name": "Наталья Морозова", "age": 29, "email": "natalya.morozova@mail.com", "city": "Уфа"},
+  {"name": "Максим Волков", "age": 21, "email": "maxim.volkov@mail.com", "city": "Челябинск"},
+  {"name": "Татьяна Алексеевa", "age": 33, "email": "tatyana.alekseeva@mail.com", "city": "Омск"},
+  {"name": "Павел Лебедев", "age": 45, "email": "pavel.lebedev@mail.com", "city": "Пермь"},
+  {"name": "Юлия Семёнова", "age": 26, "email": "yulia.semenova@mail.com", "city": "Воронеж"},
+  {"name": "Никита Егоров", "age": 18, "email": "nikita.egorov@mail.com", "city": "Волгоград"},
+  {"name": "Ксения Павлова", "age": 23, "email": "ksenia.pavlova@mail.com", "city": "Красноярск"},
+  {"name": "Владимир Козлов", "age": 50, "email": "vladimir.kozlov@mail.com", "city": "Тюмень"},
+  {"name": "Ирина Орлова", "age": 34, "email": "irina.orlova@mail.com", "city": "Ижевск"},
+  {"name": "Григорий Николаев", "age": 37, "email": "grigory.nikolaev@mail.com", "city": "Барнаул"},
+  {"name": "Светлана Захарова", "age": 30, "email": "svetlana.zakharova@mail.com", "city": "Хабаровск"}
+]
